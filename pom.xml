@@ -7,7 +7,7 @@
 	<name>Glove Utilities</name>
 	<description>some utils to read and write glove files</description>
 	<url>https://github.com/thomasjungblut/autosummary</url>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>jar</packaging>
 	<prerequisites>
 		<maven>3.0</maven>
